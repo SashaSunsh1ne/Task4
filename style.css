@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: stretch;
+    background-color: teal;
+}
+
+p,
+pre {
+    font: 2em sans-serif;
+}
+
+h1 {
+    font: 2.5em sans-serif;
+    color: yellow;
+}
+
+a {
+    color: yellow;
+    text-decoration: none;
+}
+
+.container {
+    width: 50%;
+}
